@@ -4,6 +4,7 @@
 [![Slack](https://wdc-slack-inviter.mybluemix.net/badge.svg)](https://wdc-slack-inviter.mybluemix.net)
 [![codecov.io](https://codecov.io/github/watson-developer-cloud/python-sdk/coverage.svg?branch=master)](https://codecov.io/github/watson-developer-cloud/python-sdk?branch=master)
 [![Latest Stable Version](https://img.shields.io/pypi/v/watson-developer-cloud.svg)](https://pypi.python.org/pypi/watson-developer-cloud)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwatson-developer-cloud%2Fpython-sdk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwatson-developer-cloud%2Fpython-sdk?ref=badge_shield)
 
 Python client library to quickly get started with the various [Watson APIs][wdc] services.
 
@@ -31,6 +32,9 @@ Python client library to quickly get started with the various [Watson APIs][wdc]
   * [Contributing](#contributing)
 
 </details>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwatson-developer-cloud%2Fpython-sdk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwatson-developer-cloud%2Fpython-sdk?ref=badge_large)
 
 ## Before you begin
 * You need an [IBM Cloud][ibm-cloud-onboarding] account.
